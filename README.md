@@ -1,5 +1,5 @@
 # cyber1
-# My first repo where I practice Python, on my journey into cybersecurity.
+## My first repo where I practice Python, on my journey into cybersecurity.
 
 What the project does
 This project will showcase my journey learning Python. I studied python in GCSE Computer Science (grade 7), and Visual Basic at A Level (grade C).
