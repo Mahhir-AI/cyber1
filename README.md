@@ -12,3 +12,12 @@ I am the sole owner, editor, maintainer, contributor, creator, and everything el
 
 In other words, 
 # it's mine.
+
+Copyright © Mahhir AI, 2025
+
+All rights reserved.
+
+This code and all associated files in this repository are for personal, educational, or reference purposes only.  
+You may **not** reproduce, distribute, modify, transmit, reuse, or use this code in any form, including for commercial or non-commercial purposes, without **explicit written permission** from the author.
+
+Unauthorized use is strictly prohibited.
