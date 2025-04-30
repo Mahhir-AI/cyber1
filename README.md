@@ -13,6 +13,8 @@ I am the sole owner, editor, maintainer, contributor, creator, and everything el
 In other words, 
 # it's mine.
 
+----------------------------------------------------------------------------------------------------
+
 Copyright © Mahhir AI, 2025
 
 All rights reserved.
@@ -24,7 +26,6 @@ Unauthorized use is strictly prohibited.
 
 ----------------------------------------------------------------------------------------------------
 
-THE "NOPE, NOT YOURS" LICENSE (Ridiculously Verbose Version)  
 Copyright © Mahhir AI, 2025
 
 Hear ye, hear ye: Let it be known, declared, etched into digital permanence, and universally acknowledged that all contents within this repository — including, but not limited to, code files, configuration files, documentation, witty comments, mediocre variable names, and any trace of intelligent life that may exist within — are the sole intellectual property of the original author (hereinafter referred to as "The Sovereign Coder").
