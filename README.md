@@ -45,5 +45,3 @@ Breaching the terms of this license may result in strong disapproval, public sha
 TL;DR:
 This code is mine. You can look, but don’t touch.  
 No copying, no editing, no using, no exceptions (unless I say so).
-
-End of excessively long license.
