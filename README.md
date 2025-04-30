@@ -13,8 +13,6 @@ I am the sole owner, editor, maintainer, contributor, creator, and everything el
 In other words, 
 # it's mine.
 
-----------------------------------------------------------------------------------------------------
-
 Copyright © Mahhir AI, 2025
 
 All rights reserved.
