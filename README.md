@@ -1,14 +1,15 @@
 # cyber1
-My first repo where I practice Python, on my journey into cybersecurity.
+Hi, I'm Mahhir! Welcome to my first repo, where I try to get the hang of GitHub and practice various skills relating to cybersecurity, such as Python.
 
-## What the project does
-This project will showcase my journey learning Python. I studied python in GCSE Computer Science (grade 7), and Visual Basic at A Level (grade C).
+## What will be shown?
+This project will showcase my journey as a complete beginner into the world of cybersecurity, with only my GCSE's, A-levels, curiosity and a growth mindset to get me started. 
 
-## Why the project is useful
-I want to show people such as future employers, co workers, and other important people my journey to learning Python.
+Over time, I will learn about different aspects of cybersecurity, create some interesting projects, and practice overcoming challenges.
 
-## Who maintains and contributes to the project
+## Who works on this project?
 I am the sole owner, editor, maintainer, contributor, creator, and everything else, of this project.
+
+----------------------------
 
 Copyright © Mahhir AI, 2026
 
